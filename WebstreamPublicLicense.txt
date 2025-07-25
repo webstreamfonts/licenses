@@ -1,0 +1,11 @@
+Copyright (c) 2025, Webstream Fonts, Massachusetts.
+
+You are hereby granted permission under all Webstream propriety rights to
+use, copy, modify, sublicense, sell, and redistribute the source code to
+the JavaScript libraries listed at https://fontsapi.pages.dev/opensource
+for any purpose and without restriction; provided, that this notice is left
+intact on all copies of such source code and that Webstream's trademarks
+are acknowledged as shown below on all unmodified copies of the source code
+for those JavaScript libraries.
+
+WEBSTREAM APIs are trademarks of Webstream FontsAPI.
